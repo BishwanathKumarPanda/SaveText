@@ -15,3 +15,6 @@ Customizable File Name: The application allows users to specify a custom file na
 Responsive Design: The interface is designed to be responsive using CSS, ensuring a consistent and user-friendly experience across various devices and screen sizes.
 
 # "SaveText" simplifies the process of saving text content as a file, making it ideal for tasks such as saving notes, exporting data, or creating documentation directly from a web browser. With its intuitive interface and reliable functionality, "SaveText" empowers users to manage and store text information conveniently and securely.
+# Screenshot
+![Screenshot (115)](https://github.com/BishwanathKumarPanda/SketchIt-Interactive-Drawing-App/assets/138992024/f13bcf2a-a2a6-48b8-abbe-f249fc4e6c45)
+
